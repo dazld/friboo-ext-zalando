@@ -6,7 +6,7 @@
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [yesql "0.5.3"]
-                 [org.zalando.stups/friboo-ext-zalando "2.0.0-beta1"]]
+                 [org.zalando.stups/friboo-ext-zalando "2.0.0-beta5"]]
   :main ^:skip-aot {{namespace}}.core
   :uberjar-name "{{name}}.jar"
   :target-path "target/%s"
